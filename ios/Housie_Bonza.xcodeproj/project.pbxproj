@@ -14,6 +14,14 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-Housie_Bonza-Housie_BonzaTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Housie_Bonza-Housie_BonzaTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		9DF961E735E244C78BBCF423 /* Audiowide-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B58656CB2A2E4B9BAA87CFC5 /* Audiowide-Regular.ttf */; };
+		DD9580193E564E5AAC249896 /* Jersey15-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44200714A5194EE29AFF705D /* Jersey15-Regular.ttf */; };
+		38F55E1ADE06451ABC7D99BC /* Orbitron-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E6355F36C4E745A5942D464D /* Orbitron-VariableFont_wght.ttf */; };
+		36AA5EABADFD4F2CBB901641 /* PressStart2P-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F7FF6417002643029498212F /* PressStart2P-Regular.ttf */; };
+		55D2CE8606454EFF983BB52E /* Protest Riot Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2BBB846103B24B388F9B06C6 /* Protest Riot Regular.ttf */; };
+		101E58FB96664DD981B4373A /* RussoOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 54712111EE5E4F4693AB1A4B /* RussoOne-Regular.ttf */; };
+		36D23E4F5C834F948A9C96C1 /* Sevillana-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E7924AE60224705825D75F9 /* Sevillana-Regular.ttf */; };
+		E26B64FA2653458483035B3C /* VT323-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AB561198756F429E8665BC9E /* VT323-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +52,14 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Housie_Bonza/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Housie_Bonza-Housie_BonzaTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Housie_Bonza-Housie_BonzaTests.release.xcconfig"; path = "Target Support Files/Pods-Housie_Bonza-Housie_BonzaTests/Pods-Housie_Bonza-Housie_BonzaTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		B58656CB2A2E4B9BAA87CFC5 /* Audiowide-Regular.ttf */ = {isa = PBXFileReference; name = "Audiowide-Regular.ttf"; path = "../src/assets/fonts/Audiowide-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		44200714A5194EE29AFF705D /* Jersey15-Regular.ttf */ = {isa = PBXFileReference; name = "Jersey15-Regular.ttf"; path = "../src/assets/fonts/Jersey15-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E6355F36C4E745A5942D464D /* Orbitron-VariableFont_wght.ttf */ = {isa = PBXFileReference; name = "Orbitron-VariableFont_wght.ttf"; path = "../src/assets/fonts/Orbitron-VariableFont_wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F7FF6417002643029498212F /* PressStart2P-Regular.ttf */ = {isa = PBXFileReference; name = "PressStart2P-Regular.ttf"; path = "../src/assets/fonts/PressStart2P-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2BBB846103B24B388F9B06C6 /* Protest Riot Regular.ttf */ = {isa = PBXFileReference; name = "Protest Riot Regular.ttf"; path = "../src/assets/fonts/Protest Riot Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		54712111EE5E4F4693AB1A4B /* RussoOne-Regular.ttf */ = {isa = PBXFileReference; name = "RussoOne-Regular.ttf"; path = "../src/assets/fonts/RussoOne-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9E7924AE60224705825D75F9 /* Sevillana-Regular.ttf */ = {isa = PBXFileReference; name = "Sevillana-Regular.ttf"; path = "../src/assets/fonts/Sevillana-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AB561198756F429E8665BC9E /* VT323-Regular.ttf */ = {isa = PBXFileReference; name = "VT323-Regular.ttf"; path = "../src/assets/fonts/VT323-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +138,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				2DF28478C8B147FD9CA8F299 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +164,22 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		2DF28478C8B147FD9CA8F299 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				B58656CB2A2E4B9BAA87CFC5 /* Audiowide-Regular.ttf */,
+				44200714A5194EE29AFF705D /* Jersey15-Regular.ttf */,
+				E6355F36C4E745A5942D464D /* Orbitron-VariableFont_wght.ttf */,
+				F7FF6417002643029498212F /* PressStart2P-Regular.ttf */,
+				2BBB846103B24B388F9B06C6 /* Protest Riot Regular.ttf */,
+				54712111EE5E4F4693AB1A4B /* RussoOne-Regular.ttf */,
+				9E7924AE60224705825D75F9 /* Sevillana-Regular.ttf */,
+				AB561198756F429E8665BC9E /* VT323-Regular.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -243,6 +276,14 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				9DF961E735E244C78BBCF423 /* Audiowide-Regular.ttf in Resources */,
+				DD9580193E564E5AAC249896 /* Jersey15-Regular.ttf in Resources */,
+				38F55E1ADE06451ABC7D99BC /* Orbitron-VariableFont_wght.ttf in Resources */,
+				36AA5EABADFD4F2CBB901641 /* PressStart2P-Regular.ttf in Resources */,
+				55D2CE8606454EFF983BB52E /* Protest Riot Regular.ttf in Resources */,
+				101E58FB96664DD981B4373A /* RussoOne-Regular.ttf in Resources */,
+				36D23E4F5C834F948A9C96C1 /* Sevillana-Regular.ttf in Resources */,
+				E26B64FA2653458483035B3C /* VT323-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
