@@ -5,6 +5,7 @@ const Register = () => {
   return (
     <View>
       <Text>Register</Text>
+      <Text> THIS IS LOGIN PAGE </Text>
     </View>
   )
 }
