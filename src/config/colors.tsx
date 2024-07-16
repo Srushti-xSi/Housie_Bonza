@@ -11,6 +11,7 @@ type Colors = {
     offWhite: string;
     yellow: string;
     grey: string;
+    lightGrey: string;
 }
 
 const colors: Colors = {
@@ -26,6 +27,7 @@ const colors: Colors = {
     offWhite: '#fdf7e1',
     yellow: '#fdd378',
     grey: '#1e264a',
+    lightGrey: '#d3d3d3',
   };
-  
+
   export default colors;
