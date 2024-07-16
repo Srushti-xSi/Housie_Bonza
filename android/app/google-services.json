@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "775920509512",
-    "project_id": "housie-bonza",
-    "storage_bucket": "housie-bonza.appspot.com"
+    "project_number": "249721900543",
+    "project_id": "housie-bonza-9a898",
+    "storage_bucket": "housie-bonza-9a898.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:775920509512:android:b49ea3157042406337ae7d",
+        "mobilesdk_app_id": "1:249721900543:android:fb2936c432d6a205f56bca",
         "android_client_info": {
           "package_name": "com.housie_bonza"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDWT9wh6S81ePr22A5SQTaHjRGO-dP1Q_c"
+          "current_key": "AIzaSyCrrmaLLVBsojcYlIot8le5BKMu0TZx6hM"
         }
       ],
       "services": {

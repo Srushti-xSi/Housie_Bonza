@@ -5,6 +5,7 @@ import Welcome from '../screens/Welcome/Welcome';
 import Login from '../screens/Login/Login';
 import Register from '../screens/Register/Register';
 import RoomCode from '../screens/RoomCode/RoomCode';
+import Play from '../screens/Play/Play';
 
 
 const Stack = createStackNavigator();
@@ -39,6 +40,12 @@ const Navigation = () => {
         name="RoomCode"
 
         component={RoomCode}
+        options={{headerShown: false}}
+      />
+       <Stack.Screen
+        name="Play"
+
+        component={Play}
         options={{headerShown: false}}
       />
     </Stack.Navigator>

@@ -2,12 +2,12 @@ import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDWT9wh6S81ePr22A5SQTaHjRGO-dP1Q_c",
-  authDomain: "housie-bonza.firebaseapp.com",
-  projectId: "housie-bonza",
-  storageBucket: "housie-bonza.appspot.com",
-  messagingSenderId: "775920509512",
-  appId: "1:775920509512:android:b49ea3157042406337ae7d"
+  apiKey: 'AIzaSyCrrmaLLVBsojcYlIot8le5BKMu0TZx6hM',
+  authDomain: 'housie-bonza-9a898.firebaseapp.com',
+  projectId: 'housie-bonza-9a898',
+  storageBucket: 'housie-bonza-9a898.appspot.com',
+  messagingSenderId: '249721900543',
+  appId: '1:249721900543:android:fb2936c432d6a205f56bca'
 };
 
 const app = initializeApp(firebaseConfig);

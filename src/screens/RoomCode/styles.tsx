@@ -110,7 +110,27 @@ const styles = StyleSheet.create({
     borderRadius: responsiveWidth(2.5),
     resizeMode:'repeat',
 },
-
+inviteContainer: {
+  alignItems: 'center',
+},
+inviteInput: {
+    width: responsiveWidth(80),
+    borderColor: colors.purple,
+    borderWidth: 2,
+    borderRadius: responsiveWidth(3),
+    paddingHorizontal: responsiveWidth(7),
+    backgroundColor: colors.offWhite,
+    paddingVertical: responsiveHeight(1),
+    fontFamily: 'PressStart2P-Regular',
+    fontSize: responsiveFontSize(1.5),
+    color: colors.purple,
+},
+error: {
+  color: 'red',
+  alignSelf: 'flex-start',
+  marginLeft: responsiveWidth(10),
+  fontFamily:'VT323-Regular',
+},
 });
 
 export default styles;
